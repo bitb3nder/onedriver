@@ -1,0 +1,13 @@
+# dont sync your auth token!!
+.auth_token
+
+# dont sync test data!!
+loot/
+backdoored/
+backups/
+
+# ignore python trash files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
